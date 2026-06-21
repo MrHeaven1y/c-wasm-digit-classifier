@@ -8,7 +8,7 @@ A handwritten digit classifier implemented in **pure C** and compiled to **WebAs
 
 ## 🚀 Live Demo
 
-👉 https://<your-username>.github.io/c-wasm-digit-classifier/
+👉 [https://<your-username>.github.io/c-wasm-digit-classifier/](https://webs-6t3b.onrender.com/)
 
 <!-- 🔥 Add a GIF or screenshot here -->
 
