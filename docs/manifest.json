@@ -1,0 +1,15 @@
+{
+  "name": "C-MNIST Offline",
+  "short_name": "C-AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#007acc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
