@@ -14,7 +14,8 @@ A handwritten digit classifier implemented in **pure C** and compiled to **WebAs
 
 <!-- ![Demo](assets/demo.gif) -->
 
-Draw a digit and get instant predictions from a WebAssembly-powered C inference engine.
+Draw a digit and get instant predictions from a WebAssembly-powered C inference engine. 
+**Note: It may be incorrect sometimes because of the lack of augmentation in training, since I solely focused on the training/inference.**
 
 ---
 
